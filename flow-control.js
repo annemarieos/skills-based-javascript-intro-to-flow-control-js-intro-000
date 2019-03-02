@@ -4,7 +4,7 @@ function basicTeenager(age) {
   } else {
     return undefined
   }
-  
+
 function ageChecker(age) {
 
 }
